@@ -1,5 +1,5 @@
 :root {
-    background-color: rgb(94, 99, 88);
+    background-color: rgb(174, 214, 125);
 }
 
 * {
@@ -57,7 +57,7 @@ h2 {
     margin: 2.5rem;
     text-decoration: none;
     color: rgb(255, 255, 255);
-    background: linear-gradient(90deg, rgb(18,92,255) 0%, rgb(0,102,255) 100%);
+    background: linear-gradient(90deg, rgb(39, 180, 103) 0%, rgb(89, 139, 104) 100%);
     border-radius: 5px;
     }
 
@@ -75,7 +75,7 @@ h2 {
     }
 
     #highscore-btn {
-        background: linear-gradient(90deg, rgb(163, 182, 223) 0%, rgb(0,102,255) 100%);
+        background: linear-gradient(90deg, rgb(163, 182, 223) 0%, rgb(89,139,104) 100%);
     }
 
     

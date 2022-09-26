@@ -1,5 +1,5 @@
 body {
-    color: white;
+    color: rgb(255, 255, 255);
 }
 
 .choice-container {
@@ -8,7 +8,7 @@ body {
     width:100%;
     border-radius: 5px;
     font-size: 3rem;
-    background: rgb(18,92,255);
+    background: rgb(163, 160, 160);
     min-width: 80rem;
 }
 
@@ -19,7 +19,7 @@ body {
 
 .choice-prefix {
     padding: 2rem 2.5rem;
-    color:white;
+    color:rgb(0, 0, 0);
 }
 
 .choice-text {
@@ -58,7 +58,7 @@ body {
 #progressBar {
     width: 20rem;
     height: 3rem;
-    border: 0.2rem solid rgba(0, 252, 55, 0.767);
+    border: 0.2rem solid rgba(0, 0, 0, 0.767);
     margin-top: 2rem;
     border-radius: 50px;
     overflow:hidden;
@@ -66,7 +66,7 @@ body {
 
 #progressBarFull {
     height: 100%;
-    background: rgba(0, 252, 55, 0.767);
+    background: rgba(255, 255, 255, 0.767);
     width: 0%;
 }
 
